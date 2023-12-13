@@ -1,0 +1,26 @@
+
+.main{
+    color:#F9F9F9;
+}
+.heading span{
+    color: #F85E9F;
+}
+.heading-bottom{
+    color: #C0C0C0;
+
+}
+.button{
+    border-radius:8px;
+}
+.heading{
+    margin-top: -210px;
+}
+/* .price-box{
+width: 312px;
+height: 577px;
+padding: 33.8px, 27.38px, 35.2px, 25.63px;
+border: 1px;
+} */
+.fc{
+    background-color: rgba(51, 65, 85, 1);
+}
